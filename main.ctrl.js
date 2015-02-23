@@ -50,7 +50,7 @@ angular.module('app').controller("MainController", function(){
         },
         {
             id: 4,
-            title: 'Title Ascending',
+            title: 'Title Descending',
             key: 'title',
             reverse: true
         }
